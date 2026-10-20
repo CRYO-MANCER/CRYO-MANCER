@@ -9,7 +9,7 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2900&amp;pause=1000&amp;color=44DFC6&amp;background=0B1B24&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Agents+that+act.+Knowledge+that+grounds.;Data+that+becomes+decisions.;Ideas+that+make+it+into+the+real+world." alt="Animated introduction: agents, knowledge, data, and products" />
+  <img src="./assets/tagline.svg" width="760" alt="Animated introduction: agents that do real work, data that becomes decisions, and ideas that reach the real world" />
 </div>
 
 ## Hello, I'm Rishi 👋

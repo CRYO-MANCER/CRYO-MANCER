@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="54" viewBox="0 0 760 54" role="img" aria-labelledby="title desc">
+  <title id="title">What I build</title>
+  <desc id="desc">An animated terminal line cycling through agents, data, and useful products.</desc>
+  <style>
+    .line { opacity: 0; animation: reveal 12s linear infinite; }
+    .line.one { animation-delay: 0s; }
+    .line.two { animation-delay: -4s; }
+    .line.three { animation-delay: -8s; }
+    .cursor { animation: blink 1s steps(2, start) infinite; }
+    @keyframes reveal {
+      0% { opacity: 1; clip-path: inset(0 100% 0 0); }
+      15%, 30% { opacity: 1; clip-path: inset(0 0 0 0); }
+      33%, 100% { opacity: 0; clip-path: inset(0 0 0 0); }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .cursor { animation: none !important; }
+      .line.one { opacity: 1; clip-path: none; }
+      .line.two, .line.three, .cursor { opacity: 0; }
+    }
+  </style>
+  <rect width="760" height="54" rx="8" fill="#0B1B24"/>
+  <rect x=".5" y=".5" width="759" height="53" rx="7.5" fill="none" stroke="#27595A"/>
+  <circle cx="26" cy="27" r="4" fill="#44DFC6"/>
+  <path d="M44 22l6 5-6 5" fill="none" stroke="#44DFC6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#B8F3E8" font-family="Consolas, 'Courier New', monospace" font-size="30" font-weight="600">
+    <text class="line one" x="70" y="37">Agents that do real work.</text>
+    <text class="line two" x="70" y="37">Data that becomes decisions.</text>
+    <text class="line three" x="70" y="37">Ideas that reach the real world.</text>
+  </g>
+  <rect class="cursor" x="724" y="17" width="3" height="20" fill="#F8A475"/>
+</svg>
