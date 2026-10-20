@@ -14,7 +14,7 @@
 
 ## Hello, I'm Rishi 👋
 
-I'm an **AI/ML engineer in Chennai, India** with **3 years of experience** turning complex ideas into working products. I work across agentic AI, generative AI, data engineering, machine learning, computer vision, and the APIs and workflows that bring them together.
+I'm an **AI/ML engineer in Chennai, India** turning complex ideas into working products. I work across agentic AI, generative AI, data engineering, machine learning, computer vision, and the APIs and workflows that bring them together.
 
 I like the part where a clever model becomes a useful system: grounded in the right data, connected to real tools, and built to handle the messy paths between a question and an outcome.
 
@@ -95,7 +95,7 @@ The interesting work lives between the boxes: choosing trustworthy inputs, makin
 
 ## Off the keyboard 🎓
 
-- **IIT Madras** · B.Sc. Data Science and Programming, currently pursuing through distance learning
+- **IIT Madras** · B.Sc. Data Science and Programming
 - **University of Strathclyde** · B.Sc. Mathematics and Computer Science
 
 <div align="center">
