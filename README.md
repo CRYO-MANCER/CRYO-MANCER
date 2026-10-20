@@ -86,7 +86,7 @@ The everyday stack, at a glance:
   ![Vite](https://img.shields.io/badge/Vite-24536b?style=flat-square&logo=vite&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-24536b?style=flat-square&logo=streamlit&logoColor=white)
 
-  <img src="https://api.iconify.design/lucide/messages-square.svg?color=%23b9d6d3" width="16" alt="" /> `Chainlit` · <img src="https://api.iconify.design/lucide/database.svg?color=%23b9d6d3" width="16" alt="" /> `SQL`
+  <img src="https://api.iconify.design/lucide/messages-square.svg?color=%230e8c86" width="16" alt="" /> `Chainlit` · <img src="https://api.iconify.design/lucide/database.svg?color=%230e8c86" width="16" alt="" /> `SQL`
 </details>
 
 <details>
@@ -106,7 +106,7 @@ The everyday stack, at a glance:
   ![Llama](https://img.shields.io/badge/Llama-713c54?style=flat-square&logo=meta&logoColor=white)
   ![Mistral](https://img.shields.io/badge/Mistral-713c54?style=flat-square&logo=mistralai&logoColor=white)
 
-  <img src="https://api.iconify.design/logos/openai-icon.svg" width="16" alt="" /> `GPT / OpenAI` · <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%23e8bbd0" width="16" alt="" /> `XGBoost`
+  <img src="https://api.iconify.design/logos/openai-icon.svg" width="16" alt="" /> `GPT / OpenAI` · <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%230e8c86" width="16" alt="" /> `XGBoost`
 
   *From feature engineering and evaluation to fine-tuning, optimization, and production inference.*
 </details>
@@ -123,7 +123,7 @@ The everyday stack, at a glance:
   ![Qdrant](https://img.shields.io/badge/Qdrant-17645e?style=flat-square&logo=qdrant&logoColor=white)
   ![Google ADK](https://img.shields.io/badge/Google_ADK-17645e?style=flat-square&logo=google&logoColor=white)
 
-  <img src="https://api.iconify.design/lucide/workflow.svg?color=%23b8e0d9" width="16" alt="" /> `AutoGen` · <img src="https://api.iconify.design/lucide/plug-zap.svg?color=%23b8e0d9" width="16" alt="" /> `MCP servers & clients` · <img src="https://api.iconify.design/logos/pinecone-icon.svg" width="16" alt="" /> `Pinecone`
+  <img src="https://api.iconify.design/lucide/workflow.svg?color=%230e8c86" width="16" alt="" /> `AutoGen` · <img src="https://api.iconify.design/lucide/plug-zap.svg?color=%230e8c86" width="16" alt="" /> `MCP servers & clients` · <img src="https://api.iconify.design/logos/pinecone-icon.svg" width="16" alt="" /> `Pinecone`
 
   *RAG, hybrid and semantic search, embeddings, reranking, agent memory, tool calling, guardrails, and human handoff.*
 </details>
@@ -138,7 +138,7 @@ The everyday stack, at a glance:
   ![YOLO](https://img.shields.io/badge/YOLO-4e5185?style=flat-square&logo=ultralytics&logoColor=white)
   ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-4e5185?style=flat-square&logo=elevenlabs&logoColor=white)
 
-  <img src="https://api.iconify.design/lucide/scan-text.svg?color=%23cbcafa" width="16" alt="" /> `Tesseract` · <img src="https://api.iconify.design/lucide/audio-lines.svg?color=%23cbcafa" width="16" alt="" /> `Whisper` · <img src="https://api.iconify.design/lucide/mic.svg?color=%23cbcafa" width="16" alt="" /> `Web Speech API` · <img src="https://api.iconify.design/lucide/headset.svg?color=%23cbcafa" width="16" alt="" /> `Retell AI`
+  <img src="https://api.iconify.design/lucide/scan-text.svg?color=%230e8c86" width="16" alt="" /> `Tesseract` · <img src="https://api.iconify.design/lucide/audio-lines.svg?color=%230e8c86" width="16" alt="" /> `Whisper` · <img src="https://api.iconify.design/lucide/mic.svg?color=%230e8c86" width="16" alt="" /> `Web Speech API` · <img src="https://api.iconify.design/lucide/headset.svg?color=%230e8c86" width="16" alt="" /> `Retell AI`
 
   *OCR, PDF parsing, image processing, object detection, speech-to-text, text-to-speech, and real-time voice.*
 </details>
@@ -158,7 +158,7 @@ The everyday stack, at a glance:
   ![PySpark](https://img.shields.io/badge/PySpark-72573b?style=flat-square&logo=apachespark&logoColor=white)
   ![MLflow](https://img.shields.io/badge/MLflow-72573b?style=flat-square&logo=mlflow&logoColor=white)
 
-  <img src="https://api.iconify.design/lucide/database-zap.svg?color=%23e9d5bd" width="16" alt="" /> `Delta Lake` · <img src="https://api.iconify.design/logos/microsoft-azure.svg" width="16" alt="" /> `Azure Data Factory`
+  <img src="https://api.iconify.design/lucide/database-zap.svg?color=%230e8c86" width="16" alt="" /> `Delta Lake` · <img src="https://api.iconify.design/logos/microsoft-azure.svg" width="16" alt="" /> `Azure Data Factory`
 
   *REST APIs, WebSockets, SSE, webhooks, asynchronous services, ETL, and data quality pipelines.*
 </details>
