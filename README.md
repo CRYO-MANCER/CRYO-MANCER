@@ -59,38 +59,123 @@ The interesting work lives between the boxes: choosing trustworthy inputs, makin
 
 ## The toolkit 🧰
 
-<p><strong>Build & ship</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,redis,docker,azure,git,linux&amp;theme=dark&amp;perline=9" alt="Python, FastAPI, Flask, PostgreSQL, Redis, Docker, Azure, Git, and Linux" />
+The everyday stack, at a glance:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,pytorch,postgres,redis,docker,azure,git,linux,tailwind,vite,tensorflow,github&amp;theme=dark&amp;perline=8" width="430" alt="Python, TypeScript, JavaScript, React, FastAPI, PyTorch, PostgreSQL, Redis, Docker, Azure, Git, Linux, Tailwind CSS, Vite, TensorFlow, and GitHub" />
 </p>
 
-<p><strong>Models, agents & knowledge</strong></p>
-
-![LangChain](https://img.shields.io/badge/LangChain-103d37?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-174a42?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-183a3b?style=flat-square&logo=openai&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-155e75?style=flat-square&logo=microsoftazure&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-8c2842?style=flat-square&logo=qdrant&logoColor=white)
-![Retell AI](https://img.shields.io/badge/Retell_AI-176b6b?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-95415c?style=flat-square&logo=n8n&logoColor=white)
-
-<p><strong>Data, ML & vision</strong></p>
-
-![Databricks](https://img.shields.io/badge/Databricks-a8492f?style=flat-square&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-8f551c?style=flat-square&logo=apachespark&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-176586?style=flat-square&logo=mlflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-91501f?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-9d392d?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-96501a?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-38497d?style=flat-square&logo=opencv&logoColor=white)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-344e87?style=flat-square)
+<p align="center"><em>Open a lane to explore the rest ↓</em></p>
 
 <details>
-  <summary><strong>And a few more tools ↗</strong></summary>
+  <summary><strong>01 / Languages, web & UI</strong></summary>
 
   <br />
 
-  SQL · Pandas · NumPy · XGBoost · YOLO · Tesseract · Hugging Face Transformers · Google ADK · MCP · Azure AI Foundry · Power BI · M365 Copilot Studio
+  ![Python](https://img.shields.io/badge/Python-24536b?style=flat-square&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-24536b?style=flat-square&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-24536b?style=flat-square&logo=javascript&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-24536b?style=flat-square&logo=gnubash&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-24536b?style=flat-square&logo=linux&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-24536b?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-24536b?style=flat-square&logo=github&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-24536b?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-24536b?style=flat-square&logo=css&logoColor=white)
+  ![React](https://img.shields.io/badge/React-24536b?style=flat-square&logo=react&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24536b?style=flat-square&logo=tailwindcss&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-24536b?style=flat-square&logo=vite&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-24536b?style=flat-square&logo=streamlit&logoColor=white)
+
+  <img src="https://api.iconify.design/lucide/messages-square.svg?color=%23b9d6d3" width="16" alt="" /> `Chainlit` · <img src="https://api.iconify.design/lucide/database.svg?color=%23b9d6d3" width="16" alt="" /> `SQL`
+</details>
+
+<details>
+  <summary><strong>02 / Models, ML & foundation models</strong></summary>
+
+  <br />
+
+  ![PyTorch](https://img.shields.io/badge/PyTorch-713c54?style=flat-square&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-713c54?style=flat-square&logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-713c54?style=flat-square&logo=keras&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-713c54?style=flat-square&logo=scikitlearn&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-713c54?style=flat-square&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-713c54?style=flat-square&logo=pandas&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-713c54?style=flat-square&logo=huggingface&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-713c54?style=flat-square&logo=anthropic&logoColor=white)
+  ![Gemini](https://img.shields.io/badge/Gemini-713c54?style=flat-square&logo=googlegemini&logoColor=white)
+  ![Llama](https://img.shields.io/badge/Llama-713c54?style=flat-square&logo=meta&logoColor=white)
+  ![Mistral](https://img.shields.io/badge/Mistral-713c54?style=flat-square&logo=mistralai&logoColor=white)
+
+  <img src="https://api.iconify.design/logos/openai-icon.svg" width="16" alt="" /> `GPT / OpenAI` · <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%23e8bbd0" width="16" alt="" /> `XGBoost`
+
+  *From feature engineering and evaluation to fine-tuning, optimization, and production inference.*
+</details>
+
+<details>
+  <summary><strong>03 / Agents, orchestration & knowledge</strong></summary>
+
+  <br />
+
+  ![LangChain](https://img.shields.io/badge/LangChain-17645e?style=flat-square&logo=langchain&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/LangGraph-17645e?style=flat-square&logo=langgraph&logoColor=white)
+  ![CrewAI](https://img.shields.io/badge/CrewAI-17645e?style=flat-square&logo=crewai&logoColor=white)
+  ![Haystack](https://img.shields.io/badge/Haystack-17645e?style=flat-square&logo=haystack&logoColor=white)
+  ![Qdrant](https://img.shields.io/badge/Qdrant-17645e?style=flat-square&logo=qdrant&logoColor=white)
+  ![Google ADK](https://img.shields.io/badge/Google_ADK-17645e?style=flat-square&logo=google&logoColor=white)
+
+  <img src="https://api.iconify.design/lucide/workflow.svg?color=%23b8e0d9" width="16" alt="" /> `AutoGen` · <img src="https://api.iconify.design/lucide/plug-zap.svg?color=%23b8e0d9" width="16" alt="" /> `MCP servers & clients` · <img src="https://api.iconify.design/logos/pinecone-icon.svg" width="16" alt="" /> `Pinecone`
+
+  *RAG, hybrid and semantic search, embeddings, reranking, agent memory, tool calling, guardrails, and human handoff.*
+</details>
+
+<details>
+  <summary><strong>04 / Document, vision & voice AI</strong></summary>
+
+  <br />
+
+  ![OpenCV](https://img.shields.io/badge/OpenCV-4e5185?style=flat-square&logo=opencv&logoColor=white)
+  ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-4e5185?style=flat-square&logo=paddlepaddle&logoColor=white)
+  ![YOLO](https://img.shields.io/badge/YOLO-4e5185?style=flat-square&logo=ultralytics&logoColor=white)
+  ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-4e5185?style=flat-square&logo=elevenlabs&logoColor=white)
+
+  <img src="https://api.iconify.design/lucide/scan-text.svg?color=%23cbcafa" width="16" alt="" /> `Tesseract` · <img src="https://api.iconify.design/lucide/audio-lines.svg?color=%23cbcafa" width="16" alt="" /> `Whisper` · <img src="https://api.iconify.design/lucide/mic.svg?color=%23cbcafa" width="16" alt="" /> `Web Speech API` · <img src="https://api.iconify.design/lucide/headset.svg?color=%23cbcafa" width="16" alt="" /> `Retell AI`
+
+  *OCR, PDF parsing, image processing, object detection, speech-to-text, text-to-speech, and real-time voice.*
+</details>
+
+<details>
+  <summary><strong>05 / APIs, databases & data engineering</strong></summary>
+
+  <br />
+
+  ![FastAPI](https://img.shields.io/badge/FastAPI-72573b?style=flat-square&logo=fastapi&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-72573b?style=flat-square&logo=flask&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-72573b?style=flat-square&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-72573b?style=flat-square&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-72573b?style=flat-square&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-72573b?style=flat-square&logo=redis&logoColor=white)
+  ![Databricks](https://img.shields.io/badge/Databricks-72573b?style=flat-square&logo=databricks&logoColor=white)
+  ![PySpark](https://img.shields.io/badge/PySpark-72573b?style=flat-square&logo=apachespark&logoColor=white)
+  ![MLflow](https://img.shields.io/badge/MLflow-72573b?style=flat-square&logo=mlflow&logoColor=white)
+
+  <img src="https://api.iconify.design/lucide/database-zap.svg?color=%23e9d5bd" width="16" alt="" /> `Delta Lake` · <img src="https://api.iconify.design/logos/microsoft-azure.svg" width="16" alt="" /> `Azure Data Factory`
+
+  *REST APIs, WebSockets, SSE, webhooks, asynchronous services, ETL, and data quality pipelines.*
+</details>
+
+<details>
+  <summary><strong>06 / Cloud, deployment & integrations</strong></summary>
+
+  <br />
+
+  ![Docker](https://img.shields.io/badge/Docker-32556e?style=flat-square&logo=docker&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-32556e?style=flat-square&logo=githubactions&logoColor=white)
+  ![n8n](https://img.shields.io/badge/n8n-32556e?style=flat-square&logo=n8n&logoColor=white)
+  ![WhatsApp Business Cloud API](https://img.shields.io/badge/WhatsApp_Business_Cloud_API-32556e?style=flat-square&logo=whatsapp&logoColor=white)
+
+  <img src="https://api.iconify.design/logos/microsoft-azure.svg" width="16" alt="" /> `Azure / Azure OpenAI` · <img src="https://api.iconify.design/logos/microsoft-azure.svg" width="16" alt="" /> `Azure Functions` · <img src="https://api.iconify.design/logos/microsoft-azure.svg" width="16" alt="" /> `Azure Container Registry` · <img src="https://api.iconify.design/logos/microsoft-azure.svg" width="16" alt="" /> `Azure Storage` · <img src="https://api.iconify.design/logos/microsoft-azure.svg" width="16" alt="" /> `Azure App Service`
+
+  *CI/CD, model serving, observability, secure API integration, SMTP/DNS/MX validation, and production reliability.*
 </details>
 
 ## Off the keyboard 🎓
