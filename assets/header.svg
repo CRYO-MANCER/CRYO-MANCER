@@ -1,0 +1,86 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Rishi Siva Kumar</title>
+  <desc id="description">Neon network banner for an AI and machine learning engineer.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="58" y1="15" x2="1213" y2="346" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B16" />
+      <stop offset="0.48" stop-color="#0C1225" />
+      <stop offset="1" stop-color="#090A16" />
+    </linearGradient>
+    <linearGradient id="accent" x1="340" y1="104" x2="974" y2="246" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" />
+      <stop offset="0.52" stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#EC4899" />
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(214 84) rotate(34) scale(330 236)">
+      <stop stop-color="#168CFF" stop-opacity="0.28" />
+      <stop offset="1" stop-color="#168CFF" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1070 286) rotate(-143) scale(408 248)">
+      <stop stop-color="#A855F7" stop-opacity="0.25" />
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#8BA3C7" stroke-opacity="0.07" />
+    </pattern>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="7" />
+    </filter>
+    <filter id="textGlow" x="-20%" y="-50%" width="140%" height="200%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="panelClip">
+      <rect x="18" y="18" width="1244" height="324" rx="26" />
+    </clipPath>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#background)" />
+  <g clip-path="url(#panelClip)">
+    <rect x="18" y="18" width="1244" height="324" fill="url(#grid)" />
+    <rect x="18" y="18" width="1244" height="324" fill="url(#blueGlow)" />
+    <rect x="18" y="18" width="1244" height="324" fill="url(#violetGlow)" />
+
+    <g opacity="0.52">
+      <path d="M82 269L178 222L238 271L318 203" stroke="url(#accent)" stroke-width="1.4" />
+      <path d="M963 94L1043 139L1124 84L1204 135" stroke="url(#accent)" stroke-width="1.4" />
+      <path d="M1039 139L1091 219L1191 252" stroke="url(#accent)" stroke-width="1.4" />
+      <circle cx="82" cy="269" r="13" fill="#58A6FF" fill-opacity="0.12" />
+      <circle cx="82" cy="269" r="4" fill="#58A6FF" />
+      <circle cx="178" cy="222" r="4" fill="#7C82FF" />
+      <circle cx="238" cy="271" r="4" fill="#A16CFF" />
+      <circle cx="318" cy="203" r="4" fill="#B56CFF" />
+      <circle cx="963" cy="94" r="4" fill="#58A6FF" />
+      <circle cx="1043" cy="139" r="12" fill="#8B5CF6" fill-opacity="0.13" />
+      <circle cx="1043" cy="139" r="4" fill="#8B5CF6" />
+      <circle cx="1124" cy="84" r="4" fill="#C15AE4" />
+      <circle cx="1204" cy="135" r="4" fill="#EC4899" />
+      <circle cx="1091" cy="219" r="4" fill="#B56CFF" />
+      <circle cx="1191" cy="252" r="4" fill="#EC4899" />
+    </g>
+
+    <g opacity="0.65">
+      <circle cx="91" cy="82" r="2" fill="#58A6FF" />
+      <circle cx="278" cy="72" r="2" fill="#B56CFF" />
+      <circle cx="1168" cy="296" r="2" fill="#EC4899" />
+      <circle cx="975" cy="280" r="2" fill="#58A6FF" />
+    </g>
+
+    <rect x="488" y="63" width="304" height="28" rx="14" fill="#10182D" stroke="#58A6FF" stroke-opacity="0.32" />
+    <circle cx="509" cy="77" r="4" fill="#39D98A" />
+    <text x="522" y="82" fill="#9FB2D0" font-size="13" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2">I BUILD INTELLIGENT SYSTEMS</text>
+
+    <text x="640" y="178" text-anchor="middle" fill="url(#accent)" font-size="62" font-weight="800" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1" filter="url(#textGlow)">RISHI SIVA KUMAR</text>
+    <text x="640" y="225" text-anchor="middle" fill="#D7E1F3" font-size="23" font-weight="600" font-family="Segoe UI, Arial, sans-serif" letter-spacing="6">AI / ML ENGINEER</text>
+    <text x="640" y="270" text-anchor="middle" fill="#899AB8" font-size="16" font-family="Consolas, JetBrains Mono, monospace" letter-spacing="1.2">AGENTIC AI · RAG · DATA · COMPUTER VISION · AUTOMATION</text>
+
+    <rect x="410" y="299" width="460" height="2" rx="1" fill="url(#accent)" filter="url(#softGlow)" />
+    <rect x="410" y="299" width="460" height="1" rx="0.5" fill="url(#accent)" />
+  </g>
+
+  <rect x="18.5" y="18.5" width="1243" height="323" rx="25.5" stroke="url(#accent)" stroke-opacity="0.22" />
+</svg>
