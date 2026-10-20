@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
   <title id="title">Rishi Siva Kumar — AI/ML Engineer</title>
-  <desc id="desc">An animated editorial banner with a living data network and the words build intelligence that works.</desc>
+  <desc id="desc">An animated banner with a living data network and the words build intelligence that works.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07131B"/>

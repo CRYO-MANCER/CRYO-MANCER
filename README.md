@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Rishi Siva Kumar — AI/ML engineer. Animated illustration of an idea moving through data, intelligence, and software." />
+  <img src="./assets/hero.svg" width="100%" alt="Rishi Siva Kumar — AI/ML engineer. Animated illustration of an idea moving through data, intelligence, and software." />
 
+  <br />
   <br />
 
   <a href="mailto:rishiskumar11@gmail.com"><img src="https://img.shields.io/badge/LET'S%20TALK-EMAIL%20ME-102a33?style=for-the-badge&amp;labelColor=0b161d&amp;color=0e8c86" alt="Email Rishi" /></a>
   <a href="https://github.com/CRYO-MANCER"><img src="https://img.shields.io/badge/FIND%20ME-GITHUB-102a33?style=for-the-badge&amp;labelColor=0b161d&amp;color=0e8c86&amp;logo=github&amp;logoColor=white" alt="Rishi on GitHub" /></a>
 
-  <br />
   <br />
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2900&amp;pause=1000&amp;color=44DFC6&amp;background=0B1B24&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Agents+that+act.+Knowledge+that+grounds.;Data+that+becomes+decisions.;Ideas+that+make+it+into+the+real+world." alt="Animated introduction: agents, knowledge, data, and products" />
@@ -24,12 +24,17 @@ I like the part where a clever model becomes a useful system: grounded in the ri
 
 ## Things I've built 🚀
 
-| | Build | What makes it interesting |
-|:--:|:--|:--|
-| 🤖 | **Multi-tenant AI assistant** | Agent orchestration, tenant-scoped RAG, memory, tool workflows, human handoff, routing, queues, and supervisor escalation. Built with FastAPI, PostgreSQL, Redis, and Qdrant. |
-| 📞 | **Voice AI + CRM automation** | Retell AI agents and n8n workflows connect lead ingestion, qualification, outbound calls, follow-ups, and CRM updates. |
-| 🏦 | **Bank statement intelligence** | Dynamic parsing across 40+ Indian banks and 100+ statement formats, with transaction enrichment, risk analytics, and anomaly detection. |
-| 👁️ | **KYC document intelligence** | OCR and validation for PAN, Aadhaar, UDYAM, and GST documents using CNNs, OpenCV, PaddleOCR, LangChain, and MLflow. |
+- **🤖 Multi-tenant AI assistant**<br />
+  Agent orchestration, tenant-scoped RAG, memory, tool workflows, human handoff, routing, queues, and supervisor escalation. Built with FastAPI, PostgreSQL, Redis, and Qdrant.
+
+- **📞 Voice AI + CRM automation**<br />
+  Retell AI agents and n8n workflows connect lead ingestion, qualification, outbound calls, follow-ups, and CRM updates.
+
+- **🏦 Bank statement intelligence**<br />
+  Dynamic parsing across 40+ Indian banks and 100+ statement formats, with transaction enrichment, risk analytics, and anomaly detection.
+
+- **👁️ KYC document intelligence**<br />
+  OCR and validation for PAN, Aadhaar, UDYAM, and GST documents using CNNs, OpenCV, PaddleOCR, LangChain, and MLflow.
 
 <details>
   <summary><strong>Explore more work ↗</strong></summary>
