@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+  <title id="title">Let's build something useful</title>
+  <desc id="desc">A closing invitation to connect with Rishi about an interesting problem.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1200" y1="0" y2="170" gradientUnits="userSpaceOnUse"><stop stop-color="#10292D"/><stop offset="1" stop-color="#071820"/></linearGradient>
+    <style>
+      .spark { animation: spark 2.8s ease-in-out infinite; }
+      @keyframes spark { 50% { opacity: .36; transform: scale(.75); } }
+      @media (prefers-reduced-motion: reduce) { .spark { animation: none !important; } }
+    </style>
+  </defs>
+  <rect width="1200" height="170" rx="16" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="1199" height="169" rx="15.5" fill="none" stroke="#2D555A"/>
+  <g transform="translate(92 85)"><g class="spark"><path d="M0-25V25M-25 0H25M-16-16L16 16M16-16L-16 16" stroke="#44DFC6" stroke-width="2.5" stroke-linecap="round"/></g></g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="150" y="83" fill="#F4F8F6" font-size="31" font-weight="800">Have a problem worth solving?</text>
+    <text x="151" y="120" fill="#A7C4C2" font-size="20">Let's build something useful.</text>
+  </g>
+  <path d="M1082 86h55m-20-20 20 20-20 20" fill="none" stroke="#F8A475" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

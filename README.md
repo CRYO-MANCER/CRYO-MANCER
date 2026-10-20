@@ -1,141 +1,103 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Rishi Siva Kumar — AI/ML Engineer" />
+  <img src="./assets/header.svg" width="100%" alt="Rishi Siva Kumar — AI/ML engineer. Animated illustration of an idea moving through data, intelligence, and software." />
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=CRYO-MANCER&amp;label=PROFILE%20VIEWS&amp;color=7c3aed&amp;style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/EXPERIENCE-3%20YEARS-0891b2?style=for-the-badge" alt="3 years of experience" />
-  <img src="https://img.shields.io/badge/DOMAIN-FINANCE%20%26%20NBFC-db2777?style=for-the-badge" alt="Finance and NBFC domain" />
+  <a href="mailto:rishiskumar11@gmail.com"><img src="https://img.shields.io/badge/LET'S%20TALK-EMAIL%20ME-102a33?style=for-the-badge&amp;labelColor=0b161d&amp;color=0e8c86" alt="Email Rishi" /></a>
+  <a href="https://github.com/CRYO-MANCER"><img src="https://img.shields.io/badge/FIND%20ME-GITHUB-102a33?style=for-the-badge&amp;labelColor=0b161d&amp;color=0e8c86&amp;logo=github&amp;logoColor=white" alt="Rishi on GitHub" /></a>
 
   <br />
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;duration=2600&amp;pause=700&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=I+build+agents+that+do+real+work;I+turn+documents+into+decisions;I+connect+AI%2C+data%2C+APIs+%26+automation" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2900&amp;pause=1000&amp;color=44DFC6&amp;background=0B1B24&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Agents+that+act.+Knowledge+that+grounds.;Data+that+becomes+decisions.;Ideas+that+make+it+into+the+real+world." alt="Animated introduction: agents, knowledge, data, and products" />
 </div>
 
-## `> whoami`
+## Hello, I'm Rishi 👋
 
-I’m **Rishi Siva Kumar**, an **AI/ML Engineer at Credentech Solutions** based in Chennai, India. I design production-minded intelligent systems across **Agentic AI, Generative AI, RAG, machine learning, document intelligence, data engineering, and workflow automation**.
+I'm an **AI/ML engineer in Chennai, India** with **3 years of experience** turning complex ideas into working products. I work across agentic AI, generative AI, data engineering, machine learning, computer vision, and the APIs and workflows that bring them together.
 
-My sweet spot is the full journey from an idea to a dependable product: models and prompts, retrieval and data pipelines, APIs and databases, multi-tenant architecture, human handoff, monitoring, and business workflows.
-
-```text
-Understand the problem  →  Ground the intelligence  →  Automate the workflow  →  Ship the product
-```
-
-## 🧭 What I build
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>🤖 Agentic Systems</strong><br />
-      <sub>Tool use · Memory · Sessions · Multi-step orchestration · Human handoff</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>📚 RAG & Knowledge</strong><br />
-      <sub>Tenant-scoped retrieval · Vector search · Enterprise knowledge systems</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>👁️ Document AI</strong><br />
-      <sub>OCR · Layout detection · KYC validation · Financial intelligence</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>⚙️ AI Products</strong><br />
-      <sub>APIs · Data platforms · Voice agents · CRM and workflow automation</sub>
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Technology universe
+I like the part where a clever model becomes a useful system: grounded in the right data, connected to real tools, and built to handle the messy paths between a question and an outcome.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,redis,docker,azure,git,linux,pytorch,tensorflow&amp;theme=dark&amp;perline=11" alt="Core technology icons" />
+  <img src="./assets/impact.svg" width="100%" alt="Selected results: 40-plus banks and 100-plus statement formats supported; 45 percent faster document verification; approximately 35 percent faster data pipelines." />
 </div>
 
-<br />
+## Things I've built 🚀
 
-<div align="center">
-
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=langchain&logoColor=8B5CF6)
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-111827?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)
-![Google ADK](https://img.shields.io/badge/Google_ADK-111827?style=for-the-badge&logo=google&logoColor=4285F4)
-![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=protocols&logoColor=F472B6)
-![Qdrant](https://img.shields.io/badge/Qdrant-111827?style=for-the-badge&logo=qdrant&logoColor=DC244C)
-![Retell AI](https://img.shields.io/badge/Retell_AI-111827?style=for-the-badge&logo=webrtc&logoColor=22D3EE)
-![n8n](https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-
-![Databricks](https://img.shields.io/badge/Databricks-111827?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![PySpark](https://img.shields.io/badge/PySpark-111827?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-111827?style=for-the-badge&logo=linuxfoundation&logoColor=00ADD8)
-![MLflow](https://img.shields.io/badge/MLflow-111827?style=for-the-badge&logo=mlflow&logoColor=0194E2)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-111827?style=for-the-badge&logo=python&logoColor=F59E0B)
-![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=yolo&logoColor=00FFFF)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-111827?style=for-the-badge&logo=baidu&logoColor=2932E1)
-
-</div>
+| | Build | What makes it interesting |
+|:--:|:--|:--|
+| 🤖 | **Multi-tenant AI assistant** | Agent orchestration, tenant-scoped RAG, memory, tool workflows, human handoff, routing, queues, and supervisor escalation. Built with FastAPI, PostgreSQL, Redis, and Qdrant. |
+| 📞 | **Voice AI + CRM automation** | Retell AI agents and n8n workflows connect lead ingestion, qualification, outbound calls, follow-ups, and CRM updates. |
+| 🏦 | **Bank statement intelligence** | Dynamic parsing across 40+ Indian banks and 100+ statement formats, with transaction enrichment, risk analytics, and anomaly detection. |
+| 👁️ | **KYC document intelligence** | OCR and validation for PAN, Aadhaar, UDYAM, and GST documents using CNNs, OpenCV, PaddleOCR, LangChain, and MLflow. |
 
 <details>
-  <summary><strong>More tools I work with</strong></summary>
+  <summary><strong>Explore more work ↗</strong></summary>
+
   <br />
-  SQL · REST APIs · NumPy · Pandas · Matplotlib · Seaborn · Keras · Hugging Face Transformers · Tesseract · Power BI · Delta Lake · Azure AI Foundry · M365 Copilot Studio · CI/CD
+
+  - **Lender offer and eligibility models:** XGBoost and ensemble models, feature engineering, MLflow experiment tracking, and deployment through Databricks and Azure Function Apps.
+  - **Data engineering:** Databricks, PySpark, Delta Lake, and SQL pipelines with data quality checks and workflow automation.
+  - **Email deliverability intelligence:** Syntax, DNS/MX, SMTP, and RCPT-TO checks with asynchronous bounce tracking through webhooks.
+  - **Conversational workflows:** Multi-step financial product journeys with intent detection, RAG, context management, and validation checkpoints.
 </details>
 
-## 🚀 Selected builds
-
-### 🤖 Multi-tenant Agentic AI SaaS
-
-Built an enterprise chatbot platform with **FastAPI, PostgreSQL, Redis, and Qdrant**, featuring tenant-scoped RAG, agent memory and sessions, LLM tool workflows, human handoff, queue management, transfers, and supervisor escalation.
-
-### 📞 Voice AI + CRM automation
-
-Built an automated calling platform with **Retell AI, RAG, n8n, and a custom CRM**, connecting lead ingestion, qualification, calls, follow-ups, nudges, scheduling, conversion, and sales tracking into one workflow.
-
-### 🏦 Bank statement intelligence
-
-Developed a financial intelligence platform supporting **40+ Indian banks and 100+ statement formats**, with dynamic format detection, DistilBERT-based transaction enrichment, risk analytics, anomaly detection, and scalable Flask services.
-
-### 🪪 KYC document automation
-
-Designed a unified OCR pipeline for **PAN, Aadhaar, UDYAM, and GST documents** using CNNs, OpenCV, PaddleOCR, LangChain, and MLflow—helping achieve a **45% faster document verification cycle**.
-
-### 📊 Data and ML platforms
-
-Engineered Databricks, PySpark, and SQL pipelines; built lender eligibility and offer-generation models; and improved pipeline execution time by **approximately 35%** through caching, schema pruning, and Spark tuning.
-
-## 🧩 How I think about AI systems
-
-```mermaid
-flowchart LR
-    A[Business problem] --> B[Trusted data]
-    B --> C[Models + retrieval]
-    C --> D[Agents + tools]
-    D --> E[APIs + workflows]
-    E --> F[Observable product]
-    F -. feedback .-> B
-```
-
-## 🎓 Education
-
-- **Indian Institute of Technology Madras** — B.Sc. Data Science and Programming, currently pursuing via distance learning
-- **University of Strathclyde, Glasgow** — B.Sc. Mathematics and Computer Science
-
-## 🤝 Let’s connect
+## How it comes together ✦
 
 <div align="center">
-  <a href="mailto:rishiskumar11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rishiskumar11%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Rishi" />
-  </a>
-  <a href="https://github.com/CRYO-MANCER">
-    <img src="https://img.shields.io/badge/GitHub-CRYO--MANCER-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Rishi's GitHub profile" />
-  </a>
+  <img src="./assets/build-loop.svg" width="100%" alt="Animated build loop: a real problem leads to trusted data, intelligent reasoning, useful actions, and feedback." />
 </div>
 
 <br />
 
+The interesting work lives between the boxes: choosing trustworthy inputs, making tool calls safe, keeping context useful, and turning a model's output into an actual workflow.
+
+## The toolkit 🧰
+
+<p><strong>Build & ship</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,redis,docker,azure,git,linux&amp;theme=dark&amp;perline=9" alt="Python, FastAPI, Flask, PostgreSQL, Redis, Docker, Azure, Git, and Linux" />
+</p>
+
+<p><strong>Models, agents & knowledge</strong></p>
+
+![LangChain](https://img.shields.io/badge/LangChain-103d37?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-174a42?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-183a3b?style=flat-square&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-155e75?style=flat-square&logo=microsoftazure&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-8c2842?style=flat-square&logo=qdrant&logoColor=white)
+![Retell AI](https://img.shields.io/badge/Retell_AI-176b6b?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-95415c?style=flat-square&logo=n8n&logoColor=white)
+
+<p><strong>Data, ML & vision</strong></p>
+
+![Databricks](https://img.shields.io/badge/Databricks-a8492f?style=flat-square&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-8f551c?style=flat-square&logo=apachespark&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-176586?style=flat-square&logo=mlflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-91501f?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-9d392d?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-96501a?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-38497d?style=flat-square&logo=opencv&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-344e87?style=flat-square)
+
+<details>
+  <summary><strong>And a few more tools ↗</strong></summary>
+
+  <br />
+
+  SQL · Pandas · NumPy · XGBoost · YOLO · Tesseract · Hugging Face Transformers · Google ADK · MCP · Azure AI Foundry · Power BI · M365 Copilot Studio
+</details>
+
+## Off the keyboard 🎓
+
+- **IIT Madras** · B.Sc. Data Science and Programming, currently pursuing through distance learning
+- **University of Strathclyde** · B.Sc. Mathematics and Computer Science
+
 <div align="center">
-  <sub>⚡ Building where AI reasoning meets reliable software and real business workflows.</sub>
+  <img src="./assets/footer.svg" width="100%" alt="Have a problem worth solving? Let's build something useful. Contact Rishi by email or GitHub." />
+
+  <br />
+
+  <a href="mailto:rishiskumar11@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rishiskumar11%40gmail.com-0e8c86?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email rishiskumar11@gmail.com" /></a>
+  <a href="https://github.com/CRYO-MANCER"><img src="https://img.shields.io/badge/GITHUB-CRYO--MANCER-15232c?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit CRYO-MANCER on GitHub" /></a>
 </div>

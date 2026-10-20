@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="224" viewBox="0 0 1200 224" role="img" aria-labelledby="title desc">
+  <title id="title">The build loop</title>
+  <desc id="desc">A real problem flows through trusted data, intelligent reasoning, useful actions, and feedback.</desc>
+  <defs>
+    <linearGradient id="back" x1="0" x2="1200" y1="0" y2="224" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1B24"/><stop offset="1" stop-color="#10282C"/></linearGradient>
+    <linearGradient id="path" x1="88" x2="1090" y1="112" y2="112" gradientUnits="userSpaceOnUse"><stop stop-color="#44DFC6"/><stop offset="1" stop-color="#F8A475"/></linearGradient>
+    <style>
+      .travel { animation: travel 5s linear infinite; }
+      .travel2 { animation: travel 5s linear 2.5s infinite; }
+      .dash { stroke-dasharray: 5 10; animation: dash 12s linear infinite; }
+      @keyframes travel { 0% { transform: translateX(0); opacity: 0; } 8%, 90% { opacity: 1; } 100% { transform: translateX(1000px); opacity: 0; } }
+      @keyframes dash { to { stroke-dashoffset: -180; } }
+      @media (prefers-reduced-motion: reduce) { .travel, .travel2, .dash { animation: none !important; } .travel2 { opacity: 0; } }
+    </style>
+  </defs>
+  <rect width="1200" height="224" rx="16" fill="url(#back)"/>
+  <rect x=".5" y=".5" width="1199" height="223" rx="15.5" fill="none" stroke="#2D555A"/>
+  <text x="48" y="43" fill="#93B7B8" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2">FROM FIRST QUESTION TO USEFUL OUTCOME</text>
+  <path class="dash" d="M95 113H1095" stroke="url(#path)" stroke-width="2" opacity=".7"/>
+  <circle class="travel" cx="95" cy="113" r="5" fill="#F4F8F6"/>
+  <circle class="travel2" cx="95" cy="113" r="5" fill="#F4F8F6"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">
+    <g><circle cx="112" cy="113" r="31" fill="#103E3D" stroke="#44DFC6" stroke-width="2"/><text x="112" y="120" fill="#F4F8F6" font-size="22">?</text><text x="112" y="177" fill="#DCEDE9" font-weight="700">Problem</text></g>
+    <g><circle cx="355" cy="113" r="31" fill="#103E3D" stroke="#44DFC6" stroke-width="2"/><path d="M341 104H369M341 113H369M341 122H361" stroke="#E7FBF7" stroke-width="3" stroke-linecap="round"/><text x="355" y="177" fill="#DCEDE9" font-weight="700">Trusted data</text></g>
+    <g><circle cx="600" cy="113" r="31" fill="#103E3D" stroke="#44DFC6" stroke-width="2"/><circle cx="600" cy="113" r="9" fill="none" stroke="#E7FBF7" stroke-width="2.5"/><circle cx="600" cy="113" r="2.5" fill="#E7FBF7"/><text x="600" y="177" fill="#DCEDE9" font-weight="700">Reasoning</text></g>
+    <g><circle cx="845" cy="113" r="31" fill="#4A302C" stroke="#F8A475" stroke-width="2"/><path d="M833 114L842 123L858 104" fill="none" stroke="#FFF0E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="845" y="177" fill="#DCEDE9" font-weight="700">Action</text></g>
+    <g><circle cx="1088" cy="113" r="31" fill="#4A302C" stroke="#F8A475" stroke-width="2"/><path d="M1075 111a13 13 0 0 1 23-7m3 6a13 13 0 0 1-23 7" fill="none" stroke="#FFF0E6" stroke-width="2.5" stroke-linecap="round"/><path d="M1097 99v7h-7M1079 123v-7h7" fill="none" stroke="#FFF0E6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><text x="1088" y="177" fill="#DCEDE9" font-weight="700">Feedback</text></g>
+  </g>
+</svg>
